@@ -6,7 +6,6 @@
 from openai import OpenAI
 import pandas as pd
 import torch
-import pandas as pd
 
 ## Importing relevant utility functions
 from stats import stats_analysis
