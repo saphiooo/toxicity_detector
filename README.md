@@ -14,7 +14,7 @@ This research project was submitted to the 2025 Conference on Machine Learning a
 Clone this repo with
 
 ```
-git clone git@github.com:saphiooo/toxicity-detector.git
+git clone git@github.com:saphiooo/toxicity_detector.git
 ```
 
 ## Replicating This Repository
